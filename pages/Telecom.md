@@ -6,3 +6,4 @@
  
 2.[source code](https://github.com/fischerJF/challenge/tree/master/workspace_IncLing/Telecon)
  
+4. [Analyzed Configurations](https://github.com/fischerJF/challenge/tree/master/workspace_IncLing/Tools/All_valid_conf/Telecom/products)
