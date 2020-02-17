@@ -8,4 +8,3 @@
 
 3.[Failures found](https://github.com/fischerJF/challenge/blob/master/failuresFound/Sudoku.csv)
 
-4. [Analyzed Configurations] (https://github.com/fischerJF/challenge/tree/master/workspace_IncLing/Tools/All_valid_conf/sudoku/products)

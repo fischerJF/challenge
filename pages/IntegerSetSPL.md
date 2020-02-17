@@ -7,4 +7,3 @@
  
 2. [source code](https://github.com/fischerJF/challenge/tree/master/workspace_IncLing/Set)
 
-3. [Analyzed Configurations] (https://github.com/fischerJF/challenge/tree/master/workspace_IncLing/Tools/All_valid_conf/set/products)

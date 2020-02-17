@@ -6,4 +6,3 @@
  
 2. [source code](https://github.com/fischerJF/challenge/tree/master/workspace_IncLing/vending)
  
-4. [Analyzed Configurations] (https://github.com/fischerJF/challenge/tree/master/workspace_IncLing/Tools/All_valid_conf/VendingMachine/products)
