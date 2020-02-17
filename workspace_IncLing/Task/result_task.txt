@@ -1,0 +1,11 @@
+OBSERVER:false, REMOVER:false, LOGGIN:false, 
+OBSERVER:true, REMOVER:false, LOGGIN:false, 
+OBSERVER:false, REMOVER:true, LOGGIN:false, 
+OBSERVER:true, REMOVER:true, LOGGIN:false, 
+OBSERVER:false, REMOVER:false, LOGGIN:true, 
+OBSERVER:true, REMOVER:false, LOGGIN:true, 
+OBSERVER:false, REMOVER:true, LOGGIN:true, 
+OBSERVER:true, REMOVER:true, LOGGIN:true, 
+observer:trueremover:falseloggin:false
+
+Configuration:

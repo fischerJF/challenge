@@ -1,0 +1,58 @@
+p cnf 12 23 
+c c 1 argouml
+c c 2 _argouml
+c c 3 Diagrams
+c c 4 COGNITIVE___
+c c 5 LOGGING___
+c c 6 _Diagrams
+c c 7 STATEDIAGRAM___
+c c 8 ACTIVITYDIAGRAM___
+c c 9 USECASEDIAGRAM___
+c c 10 COLLABORATIONDIAGRAM___
+c c 11 DEPLOYMENTDIAGRAM___
+c c 12 SEQUENCEDIAGRAM___
+c (Diagrams iff _Diagrams)
+c ((not Diagrams or _Diagrams) and (not _Diagrams or Diagrams))
+c x ((not Diagrams or _Diagrams) and (not _Diagrams or Diagrams))
+-3 6  0
+-6 3  0
+c (argouml iff _argouml)
+c ((not argouml or _argouml) and (not _argouml or argouml))
+c x ((not argouml or _argouml) and (not _argouml or argouml))
+-1 2  0
+-2 1  0
+c ((STATEDIAGRAM___) implies (_Diagrams) and (ACTIVITYDIAGRAM___) implies (_Diagrams) and (USECASEDIAGRAM___) implies (_Diagrams) and (COLLABORATIONDIAGRAM___) implies (_Diagrams) and (DEPLOYMENTDIAGRAM___) implies (_Diagrams) and (SEQUENCEDIAGRAM___) implies (_Diagrams))
+c ((not STATEDIAGRAM___ or _Diagrams) and (not ACTIVITYDIAGRAM___ or _Diagrams) and (not USECASEDIAGRAM___ or _Diagrams) and (not COLLABORATIONDIAGRAM___ or _Diagrams) and (not DEPLOYMENTDIAGRAM___ or _Diagrams) and (not SEQUENCEDIAGRAM___ or _Diagrams))
+c x ((not STATEDIAGRAM___ or _Diagrams) and (not ACTIVITYDIAGRAM___ or _Diagrams) and (not USECASEDIAGRAM___ or _Diagrams) and (not COLLABORATIONDIAGRAM___ or _Diagrams) and (not DEPLOYMENTDIAGRAM___ or _Diagrams) and (not SEQUENCEDIAGRAM___ or _Diagrams))
+-7 6  0
+-8 6  0
+-9 6  0
+-10 6  0
+-11 6  0
+-12 6  0
+c ((_argouml iff Diagrams) and (COGNITIVE___) implies (_argouml) and (LOGGING___) implies (_argouml))
+c ((not _argouml or Diagrams) and (not Diagrams or _argouml) and (not COGNITIVE___ or _argouml) and (not LOGGING___ or _argouml))
+c x ((not _argouml or Diagrams) and (not Diagrams or _argouml) and (not COGNITIVE___ or _argouml) and (not LOGGING___ or _argouml))
+-2 3  0
+-3 2  0
+-4 2  0
+-5 2  0
+c x argouml
+1 0
+c x LOGGING___
+5 0
+c x -COGNITIVE___
+-4 0
+c x -ACTIVITYDIAGRAM___
+-8 0
+c x -COLLABORATIONDIAGRAM___
+-10 0
+c x -DEPLOYMENTDIAGRAM___
+-11 0
+c x -SEQUENCEDIAGRAM___
+-12 0
+c x -STATEDIAGRAM___
+-7 0
+c x -USECASEDIAGRAM___
+-9 0
+

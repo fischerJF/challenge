@@ -1,0 +1,270 @@
+LOGGING:false, COGNITIVE:false, ACTIVITYDIAGRAM:false, COLLABORATIONDIAGRAM:false, DEPLOYMENTDIAGRAM:false, SEQUENCEDIAGRAM:false, STATEDIAGRAM:false, USECASEDIAGRAM:false, 
+LOGGING:true, COGNITIVE:false, ACTIVITYDIAGRAM:false, COLLABORATIONDIAGRAM:true, DEPLOYMENTDIAGRAM:true, SEQUENCEDIAGRAM:false, STATEDIAGRAM:true, USECASEDIAGRAM:false, 
+LOGGING:false, COGNITIVE:true, ACTIVITYDIAGRAM:false, COLLABORATIONDIAGRAM:true, DEPLOYMENTDIAGRAM:false, SEQUENCEDIAGRAM:true, STATEDIAGRAM:true, USECASEDIAGRAM:true, 
+LOGGING:true, COGNITIVE:true, ACTIVITYDIAGRAM:false, COLLABORATIONDIAGRAM:false, DEPLOYMENTDIAGRAM:false, SEQUENCEDIAGRAM:false, STATEDIAGRAM:false, USECASEDIAGRAM:true, 
+LOGGING:false, COGNITIVE:false, ACTIVITYDIAGRAM:true, COLLABORATIONDIAGRAM:true, DEPLOYMENTDIAGRAM:false, SEQUENCEDIAGRAM:true, STATEDIAGRAM:true, USECASEDIAGRAM:false, 
+LOGGING:true, COGNITIVE:false, ACTIVITYDIAGRAM:true, COLLABORATIONDIAGRAM:false, DEPLOYMENTDIAGRAM:false, SEQUENCEDIAGRAM:false, STATEDIAGRAM:false, USECASEDIAGRAM:false, 
+LOGGING:false, COGNITIVE:true, ACTIVITYDIAGRAM:true, COLLABORATIONDIAGRAM:false, DEPLOYMENTDIAGRAM:false, SEQUENCEDIAGRAM:false, STATEDIAGRAM:false, USECASEDIAGRAM:true, 
+LOGGING:true, COGNITIVE:true, ACTIVITYDIAGRAM:false, COLLABORATIONDIAGRAM:true, DEPLOYMENTDIAGRAM:false, SEQUENCEDIAGRAM:true, STATEDIAGRAM:true, USECASEDIAGRAM:true, 
+LOGGING:false, COGNITIVE:false, ACTIVITYDIAGRAM:false, COLLABORATIONDIAGRAM:true, DEPLOYMENTDIAGRAM:true, SEQUENCEDIAGRAM:false, STATEDIAGRAM:true, USECASEDIAGRAM:false, 
+LOGGING:true, COGNITIVE:false, ACTIVITYDIAGRAM:false, COLLABORATIONDIAGRAM:true, DEPLOYMENTDIAGRAM:false, SEQUENCEDIAGRAM:true, STATEDIAGRAM:false, USECASEDIAGRAM:false, 
+LOGGING:false, COGNITIVE:true, ACTIVITYDIAGRAM:false, COLLABORATIONDIAGRAM:true, DEPLOYMENTDIAGRAM:true, SEQUENCEDIAGRAM:false, STATEDIAGRAM:false, USECASEDIAGRAM:true, 
+LOGGING:false, COGNITIVE:false, ACTIVITYDIAGRAM:true, COLLABORATIONDIAGRAM:false, DEPLOYMENTDIAGRAM:true, SEQUENCEDIAGRAM:true, STATEDIAGRAM:false, USECASEDIAGRAM:false, 
+LOGGING:false, COGNITIVE:true, ACTIVITYDIAGRAM:true, COLLABORATIONDIAGRAM:true, DEPLOYMENTDIAGRAM:true, SEQUENCEDIAGRAM:true, STATEDIAGRAM:true, USECASEDIAGRAM:true, 
+LOGGING:true, COGNITIVE:true, ACTIVITYDIAGRAM:true, COLLABORATIONDIAGRAM:true, DEPLOYMENTDIAGRAM:true, SEQUENCEDIAGRAM:false, STATEDIAGRAM:true, USECASEDIAGRAM:false, 
+LOGGING:true, COGNITIVE:false, ACTIVITYDIAGRAM:true, COLLABORATIONDIAGRAM:false, DEPLOYMENTDIAGRAM:true, SEQUENCEDIAGRAM:true, STATEDIAGRAM:false, USECASEDIAGRAM:true, 
+LOGGING:true, COGNITIVE:true, ACTIVITYDIAGRAM:true, COLLABORATIONDIAGRAM:false, DEPLOYMENTDIAGRAM:true, SEQUENCEDIAGRAM:true, STATEDIAGRAM:true, USECASEDIAGRAM:true, 
+LOGGING:false, COGNITIVE:true, ACTIVITYDIAGRAM:false, COLLABORATIONDIAGRAM:false, DEPLOYMENTDIAGRAM:true, SEQUENCEDIAGRAM:true, STATEDIAGRAM:true, USECASEDIAGRAM:false, 
+LOGGING:false, COGNITIVE:false, ACTIVITYDIAGRAM:true, COLLABORATIONDIAGRAM:false, DEPLOYMENTDIAGRAM:true, SEQUENCEDIAGRAM:false, STATEDIAGRAM:true, USECASEDIAGRAM:true, 
+LOGGING:true, COGNITIVE:true, ACTIVITYDIAGRAM:true, COLLABORATIONDIAGRAM:true, DEPLOYMENTDIAGRAM:false, SEQUENCEDIAGRAM:false, STATEDIAGRAM:true, USECASEDIAGRAM:true, 
+LOGGING:true, COGNITIVE:true, ACTIVITYDIAGRAM:false, COLLABORATIONDIAGRAM:false, DEPLOYMENTDIAGRAM:false, SEQUENCEDIAGRAM:false, STATEDIAGRAM:true, USECASEDIAGRAM:false, 
+LOGGING:true, COGNITIVE:false, ACTIVITYDIAGRAM:false, COLLABORATIONDIAGRAM:true, DEPLOYMENTDIAGRAM:false, SEQUENCEDIAGRAM:false, STATEDIAGRAM:false, USECASEDIAGRAM:true, 
+LOGGING:false, COGNITIVE:false, ACTIVITYDIAGRAM:true, COLLABORATIONDIAGRAM:true, DEPLOYMENTDIAGRAM:false, SEQUENCEDIAGRAM:true, STATEDIAGRAM:false, USECASEDIAGRAM:true, 
+LOGGING:false, COGNITIVE:true, ACTIVITYDIAGRAM:true, COLLABORATIONDIAGRAM:true, DEPLOYMENTDIAGRAM:false, SEQUENCEDIAGRAM:true, STATEDIAGRAM:false, USECASEDIAGRAM:false, 
+LOGGING:true, COGNITIVE:true, ACTIVITYDIAGRAM:true, COLLABORATIONDIAGRAM:false, DEPLOYMENTDIAGRAM:true, SEQUENCEDIAGRAM:false, STATEDIAGRAM:false, USECASEDIAGRAM:false, 
+LOGGING:false, COGNITIVE:false, ACTIVITYDIAGRAM:false, COLLABORATIONDIAGRAM:false, DEPLOYMENTDIAGRAM:false, SEQUENCEDIAGRAM:true, STATEDIAGRAM:false, USECASEDIAGRAM:true, 
+LOGGING:false, COGNITIVE:true, ACTIVITYDIAGRAM:true, COLLABORATIONDIAGRAM:true, DEPLOYMENTDIAGRAM:false, SEQUENCEDIAGRAM:false, STATEDIAGRAM:false, USECASEDIAGRAM:false, 
+LOGGING:true, COGNITIVE:false, ACTIVITYDIAGRAM:true, COLLABORATIONDIAGRAM:false, DEPLOYMENTDIAGRAM:false, SEQUENCEDIAGRAM:true, STATEDIAGRAM:true, USECASEDIAGRAM:false, 
+LOGGING:true, COGNITIVE:false, ACTIVITYDIAGRAM:false, COLLABORATIONDIAGRAM:true, DEPLOYMENTDIAGRAM:true, SEQUENCEDIAGRAM:true, STATEDIAGRAM:false, USECASEDIAGRAM:false, 
+LOGGING:true, COGNITIVE:false, ACTIVITYDIAGRAM:false, COLLABORATIONDIAGRAM:false, DEPLOYMENTDIAGRAM:true, SEQUENCEDIAGRAM:false, STATEDIAGRAM:true, USECASEDIAGRAM:true, 
+LOGGING:true, COGNITIVE:false, ACTIVITYDIAGRAM:true, COLLABORATIONDIAGRAM:true, DEPLOYMENTDIAGRAM:true, SEQUENCEDIAGRAM:true, STATEDIAGRAM:true, USECASEDIAGRAM:true, 
+LOGGING:true, COGNITIVE:true, ACTIVITYDIAGRAM:false, COLLABORATIONDIAGRAM:false, DEPLOYMENTDIAGRAM:true, SEQUENCEDIAGRAM:true, STATEDIAGRAM:false, USECASEDIAGRAM:true, 
+LOGGING:false, COGNITIVE:false, ACTIVITYDIAGRAM:false, COLLABORATIONDIAGRAM:false, DEPLOYMENTDIAGRAM:false, SEQUENCEDIAGRAM:false, STATEDIAGRAM:true, USECASEDIAGRAM:true, 
+LOGGING:true, COGNITIVE:true, ACTIVITYDIAGRAM:true, COLLABORATIONDIAGRAM:true, DEPLOYMENTDIAGRAM:true, SEQUENCEDIAGRAM:true, STATEDIAGRAM:false, USECASEDIAGRAM:false, 
+LOGGING:false, COGNITIVE:true, ACTIVITYDIAGRAM:false, COLLABORATIONDIAGRAM:false, DEPLOYMENTDIAGRAM:false, SEQUENCEDIAGRAM:true, STATEDIAGRAM:false, USECASEDIAGRAM:false, 
+LOGGING:false, COGNITIVE:false, ACTIVITYDIAGRAM:true, COLLABORATIONDIAGRAM:true, DEPLOYMENTDIAGRAM:true, SEQUENCEDIAGRAM:false, STATEDIAGRAM:false, USECASEDIAGRAM:false, 
+LOGGING:false, COGNITIVE:false, ACTIVITYDIAGRAM:false, COLLABORATIONDIAGRAM:false, DEPLOYMENTDIAGRAM:false, SEQUENCEDIAGRAM:true, STATEDIAGRAM:true, USECASEDIAGRAM:false, 
+LOGGING:false, COGNITIVE:true, ACTIVITYDIAGRAM:false, COLLABORATIONDIAGRAM:true, DEPLOYMENTDIAGRAM:false, SEQUENCEDIAGRAM:false, STATEDIAGRAM:true, USECASEDIAGRAM:false, 
+********************************
+logging:truecognitive:trueactivitydiagram:truecollaborationdiagram:truedeploymentdiagram:truesequencediagram:truestatediagram:trueusecasediagram:trueConfiguration:
+
+
+
+ LOGGING:trueCOGNITIVE:trueACTIVITYDIAGRAM:trueCOLLABORATIONDIAGRAM:trueDEPLOYMENTDIAGRAM:trueSEQUENCEDIAGRAM:trueSTATEDIAGRAM:trueUSECASEDIAGRAM:true
+1 Unresolved compilation problem: 
+	Type mismatch: cannot convert from element type Object to Generalization
+
+2 java.lang.Error: Unresolved compilation problem: 
+	Type mismatch: cannot convert from element type Object to Generalization
+
+	at org.argouml.model.mdr.CoreFactoryMDRImpl.buildGeneralization(CoreFactoryMDRImpl.java:991)
+	at org.argouml.model.mdr.CoreFactoryMDRImpl.buildGeneralization(CoreFactoryMDRImpl.java:1)
+	at org.argouml.model.TestUmlGeneralization.setUp(TestUmlGeneralization.java:108)
+	at junit.framework.TestCase.runBare(TestCase.java:128)
+	at junit.framework.TestResult$1.protect(TestResult.java:106)
+	at junit.framework.TestResult.runProtected(TestResult.java:124)
+	at junit.framework.TestResult.run(TestResult.java:109)
+	at junit.framework.TestCase.run(TestCase.java:120)
+	at junit.framework.TestSuite.runTest(TestSuite.java:230)
+	at junit.framework.TestSuite.run(TestSuite.java:225)
+	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at org.argouml.experiment.MainTestArgo___ToolsFeatureIDE.executeJunitTestCase(MainTestArgo___ToolsFeatureIDE.java:244)
+	at org.argouml.experiment.MainTestArgo___ToolsFeatureIDE.expRun(MainTestArgo___ToolsFeatureIDE.java:474)
+	at org.argouml.experiment.MainTestArgo___ToolsFeatureIDE.main(MainTestArgo___ToolsFeatureIDE.java:480)
+
+3 java.lang.Error: Unresolved compilation problem: 
+	Type mismatch: cannot convert from element type Object to Generalization
+
+4 null
+5 testClasshasGeneralizations(org.argouml.model.TestUmlGeneralization)
+6 class java.lang.Error
+7 testClasshasGeneralizations(org.argouml.model.TestUmlGeneralization)
+
+ LOGGING:trueCOGNITIVE:trueACTIVITYDIAGRAM:trueCOLLABORATIONDIAGRAM:trueDEPLOYMENTDIAGRAM:trueSEQUENCEDIAGRAM:trueSTATEDIAGRAM:trueUSECASEDIAGRAM:true
+1 Unresolved compilation problem: 
+	Type mismatch: cannot convert from element type Object to Generalization
+
+2 java.lang.Error: Unresolved compilation problem: 
+	Type mismatch: cannot convert from element type Object to Generalization
+
+	at org.argouml.model.mdr.CoreFactoryMDRImpl.buildGeneralization(CoreFactoryMDRImpl.java:991)
+	at org.argouml.model.mdr.CoreFactoryMDRImpl.buildGeneralization(CoreFactoryMDRImpl.java:1)
+	at org.argouml.model.TestUmlGeneralization.setUp(TestUmlGeneralization.java:108)
+	at junit.framework.TestCase.runBare(TestCase.java:128)
+	at junit.framework.TestResult$1.protect(TestResult.java:106)
+	at junit.framework.TestResult.runProtected(TestResult.java:124)
+	at junit.framework.TestResult.run(TestResult.java:109)
+	at junit.framework.TestCase.run(TestCase.java:120)
+	at junit.framework.TestSuite.runTest(TestSuite.java:230)
+	at junit.framework.TestSuite.run(TestSuite.java:225)
+	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at org.argouml.experiment.MainTestArgo___ToolsFeatureIDE.executeJunitTestCase(MainTestArgo___ToolsFeatureIDE.java:244)
+	at org.argouml.experiment.MainTestArgo___ToolsFeatureIDE.expRun(MainTestArgo___ToolsFeatureIDE.java:474)
+	at org.argouml.experiment.MainTestArgo___ToolsFeatureIDE.main(MainTestArgo___ToolsFeatureIDE.java:480)
+
+3 java.lang.Error: Unresolved compilation problem: 
+	Type mismatch: cannot convert from element type Object to Generalization
+
+4 null
+5 testClasshasSpecializations(org.argouml.model.TestUmlGeneralization)
+6 class java.lang.Error
+7 testClasshasSpecializations(org.argouml.model.TestUmlGeneralization)
+
+ LOGGING:trueCOGNITIVE:trueACTIVITYDIAGRAM:trueCOLLABORATIONDIAGRAM:trueDEPLOYMENTDIAGRAM:trueSEQUENCEDIAGRAM:trueSTATEDIAGRAM:trueUSECASEDIAGRAM:true
+1 Unresolved compilation problem: 
+	Type mismatch: cannot convert from element type Object to Generalization
+
+2 java.lang.Error: Unresolved compilation problem: 
+	Type mismatch: cannot convert from element type Object to Generalization
+
+	at org.argouml.model.mdr.CoreFactoryMDRImpl.buildGeneralization(CoreFactoryMDRImpl.java:991)
+	at org.argouml.model.mdr.CoreFactoryMDRImpl.buildGeneralization(CoreFactoryMDRImpl.java:1)
+	at org.argouml.model.TestUmlGeneralization.setUp(TestUmlGeneralization.java:108)
+	at junit.framework.TestCase.runBare(TestCase.java:128)
+	at junit.framework.TestResult$1.protect(TestResult.java:106)
+	at junit.framework.TestResult.runProtected(TestResult.java:124)
+	at junit.framework.TestResult.run(TestResult.java:109)
+	at junit.framework.TestCase.run(TestCase.java:120)
+	at junit.framework.TestSuite.runTest(TestSuite.java:230)
+	at junit.framework.TestSuite.run(TestSuite.java:225)
+	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at org.argouml.experiment.MainTestArgo___ToolsFeatureIDE.executeJunitTestCase(MainTestArgo___ToolsFeatureIDE.java:244)
+	at org.argouml.experiment.MainTestArgo___ToolsFeatureIDE.expRun(MainTestArgo___ToolsFeatureIDE.java:474)
+	at org.argouml.experiment.MainTestArgo___ToolsFeatureIDE.main(MainTestArgo___ToolsFeatureIDE.java:480)
+
+3 java.lang.Error: Unresolved compilation problem: 
+	Type mismatch: cannot convert from element type Object to Generalization
+
+4 null
+5 testDeleteClass(org.argouml.model.TestUmlGeneralization)
+6 class java.lang.Error
+7 testDeleteClass(org.argouml.model.TestUmlGeneralization)
+
+ LOGGING:trueCOGNITIVE:trueACTIVITYDIAGRAM:trueCOLLABORATIONDIAGRAM:trueDEPLOYMENTDIAGRAM:trueSEQUENCEDIAGRAM:trueSTATEDIAGRAM:trueUSECASEDIAGRAM:true
+1 Unresolved compilation problem: 
+	Type mismatch: cannot convert from element type Object to ModelElement
+
+2 java.lang.Error: Unresolved compilation problem: 
+	Type mismatch: cannot convert from element type Object to ModelElement
+
+	at org.argouml.model.mdr.ModelManagementHelperMDRImpl.getElement(ModelManagementHelperMDRImpl.java:353)
+	at org.argouml.model.TestModelManagementHelper.testGetPathForTagDefinitionInStereotype(TestModelManagementHelper.java:169)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at junit.framework.TestCase.runTest(TestCase.java:164)
+	at junit.framework.TestCase.runBare(TestCase.java:130)
+	at junit.framework.TestResult$1.protect(TestResult.java:106)
+	at junit.framework.TestResult.runProtected(TestResult.java:124)
+	at junit.framework.TestResult.run(TestResult.java:109)
+	at junit.framework.TestCase.run(TestCase.java:120)
+	at junit.framework.TestSuite.runTest(TestSuite.java:230)
+	at junit.framework.TestSuite.run(TestSuite.java:225)
+	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at org.argouml.experiment.MainTestArgo___ToolsFeatureIDE.executeJunitTestCase(MainTestArgo___ToolsFeatureIDE.java:244)
+	at org.argouml.experiment.MainTestArgo___ToolsFeatureIDE.expRun(MainTestArgo___ToolsFeatureIDE.java:474)
+	at org.argouml.experiment.MainTestArgo___ToolsFeatureIDE.main(MainTestArgo___ToolsFeatureIDE.java:480)
+
+3 java.lang.Error: Unresolved compilation problem: 
+	Type mismatch: cannot convert from element type Object to ModelElement
+
+4 null
+5 testGetPathForTagDefinitionInStereotype(org.argouml.model.TestModelManagementHelper)
+6 class java.lang.Error
+7 testGetPathForTagDefinitionInStereotype(org.argouml.model.TestModelManagementHelper)
+
+ LOGGING:trueCOGNITIVE:trueACTIVITYDIAGRAM:trueCOLLABORATIONDIAGRAM:trueDEPLOYMENTDIAGRAM:trueSEQUENCEDIAGRAM:trueSTATEDIAGRAM:trueUSECASEDIAGRAM:true
+1 Unresolved compilation problem: 
+	Type mismatch: cannot convert from element type Object to String
+
+2 java.lang.Error: Unresolved compilation problem: 
+	Type mismatch: cannot convert from element type Object to String
+
+	at org.argouml.model.mdr.ExtensionMechanismsHelperMDRImpl.isApplicableStereo(ExtensionMechanismsHelperMDRImpl.java:231)
+	at org.argouml.model.mdr.ExtensionMechanismsHelperMDRImpl.isValidStereotype(ExtensionMechanismsHelperMDRImpl.java:260)
+	at org.argouml.model.CheckUMLModelHelper.isValidStereoType(CheckUMLModelHelper.java:432)
+	at org.argouml.model.CheckUMLModelHelper.isValidStereoType(CheckUMLModelHelper.java:462)
+	at org.argouml.model.TestModelManagementHelper.testIsValidStereoType(TestModelManagementHelper.java:77)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at junit.framework.TestCase.runTest(TestCase.java:164)
+	at junit.framework.TestCase.runBare(TestCase.java:130)
+	at junit.framework.TestResult$1.protect(TestResult.java:106)
+	at junit.framework.TestResult.runProtected(TestResult.java:124)
+	at junit.framework.TestResult.run(TestResult.java:109)
+	at junit.framework.TestCase.run(TestCase.java:120)
+	at junit.framework.TestSuite.runTest(TestSuite.java:230)
+	at junit.framework.TestSuite.run(TestSuite.java:225)
+	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:86)
+	at org.junit.runners.Suite.runChild(Suite.java:128)
+	at org.junit.runners.Suite.runChild(Suite.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:105)
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:94)
+	at org.argouml.experiment.MainTestArgo___ToolsFeatureIDE.executeJunitTestCase(MainTestArgo___ToolsFeatureIDE.java:244)
+	at org.argouml.experiment.MainTestArgo___ToolsFeatureIDE.expRun(MainTestArgo___ToolsFeatureIDE.java:474)
+	at org.argouml.experiment.MainTestArgo___ToolsFeatureIDE.main(MainTestArgo___ToolsFeatureIDE.java:480)
+
+3 java.lang.Error: Unresolved compilation problem: 
+	Type mismatch: cannot convert from element type Object to String
+
+4 null
+5 testIsValidStereoType(org.argouml.model.TestModelManagementHelper)
+6 class java.lang.Error
+7 testIsValidStereoType(org.argouml.model.TestModelManagementHelper)
+cont: 1((( apos os testes))) 
+logging:truecognitive:trueactivitydiagram:truecollaborationdiagram:truedeploymentdiagram:truesequencediagram:truestatediagram:trueusecasediagram:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:1

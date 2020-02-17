@@ -1,0 +1,376 @@
+Base:true, highWaterSensor:false, lowWaterSensor:false, methaneQuery:false, methaneAlarm:false, stopCommand:false, startCommand:false, 
+Base:true, highWaterSensor:true, lowWaterSensor:true, methaneQuery:true, methaneAlarm:true, stopCommand:true, startCommand:true, 
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+Configuration:
+
+ test1 test2
+cont: 1((( apos os testes))) 
+Configuration:
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ test1 test2
+cont: 2((( apos os testes))) 
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:2
+Base:true, highWaterSensor:false, lowWaterSensor:false, methaneQuery:false, methaneAlarm:false, stopCommand:false, startCommand:false, Base:true, highWaterSensor:false, lowWaterSensor:false, methaneQuery:false, methaneAlarm:false, stopCommand:false, startCommand:false, 
+Base:true, highWaterSensor:true, lowWaterSensor:true, methaneQuery:true, methaneAlarm:true, stopCommand:true, startCommand:true, Base:true, highWaterSensor:true, lowWaterSensor:true, methaneQuery:true, methaneAlarm:true, stopCommand:true, startCommand:true, 
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+Configuration:
+
+cont: 1((( apos os testes))) 
+Configuration:
+ test1 test2
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ test1 test2
+cont: 2((( apos os testes))) 
+Configuration:
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ test1 test2
+cont: 3((( apos os testes))) 
+Configuration:
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ test1 test2
+cont: 4((( apos os testes))) 
+Configuration:
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:4
+Base:true, highWaterSensor:false, lowWaterSensor:false, methaneQuery:false, methaneAlarm:false, stopCommand:false, startCommand:false, Base:true, highWaterSensor:false, lowWaterSensor:false, methaneQuery:false, methaneAlarm:false, stopCommand:false, startCommand:false, Base:true, highWaterSensor:false, lowWaterSensor:false, methaneQuery:false, methaneAlarm:false, stopCommand:false, startCommand:false, 
+Base:true, highWaterSensor:true, lowWaterSensor:true, methaneQuery:true, methaneAlarm:true, stopCommand:true, startCommand:true, Base:true, highWaterSensor:true, lowWaterSensor:true, methaneQuery:true, methaneAlarm:true, stopCommand:true, startCommand:true, Base:true, highWaterSensor:true, lowWaterSensor:true, methaneQuery:true, methaneAlarm:true, stopCommand:true, startCommand:true, 
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ test1 test2
+cont: 1((( apos os testes))) 
+Configuration:
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+cont: 2((( apos os testes))) 
+Configuration:
+ test1 test2
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+cont: 3((( apos os testes))) 
+Configuration:
+ test1 test2
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ test1 test2
+cont: 4((( apos os testes))) 
+Configuration:
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ test1 test2
+cont: 5((( apos os testes))) 
+Configuration:
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ test1 test2
+cont: 6((( apos os testes))) 
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:6
+Base:true, highWaterSensor:false, lowWaterSensor:false, methaneQuery:false, methaneAlarm:false, stopCommand:false, startCommand:false, Base:true, highWaterSensor:false, lowWaterSensor:false, methaneQuery:false, methaneAlarm:false, stopCommand:false, startCommand:false, Base:true, highWaterSensor:false, lowWaterSensor:false, methaneQuery:false, methaneAlarm:false, stopCommand:false, startCommand:false, Base:true, highWaterSensor:false, lowWaterSensor:false, methaneQuery:false, methaneAlarm:false, stopCommand:false, startCommand:false, 
+Base:true, highWaterSensor:true, lowWaterSensor:true, methaneQuery:true, methaneAlarm:true, stopCommand:true, startCommand:true, Base:true, highWaterSensor:true, lowWaterSensor:true, methaneQuery:true, methaneAlarm:true, stopCommand:true, startCommand:true, Base:true, highWaterSensor:true, lowWaterSensor:true, methaneQuery:true, methaneAlarm:true, stopCommand:true, startCommand:true, Base:true, highWaterSensor:true, lowWaterSensor:true, methaneQuery:true, methaneAlarm:true, stopCommand:true, startCommand:true, 
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+Configuration:
+
+ test1 test2
+cont: 1((( apos os testes))) 
+Configuration:
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ test1 test2
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+cont: 2((( apos os testes))) 
+Configuration:
+
+ test1 test2
+cont: 3((( apos os testes))) 
+Configuration:
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ test1 test2
+cont: 4((( apos os testes))) 
+Configuration:
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ test1 test2
+cont: 5((( apos os testes))) 
+Configuration:
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ test1 test2
+cont: 6((( apos os testes))) 
+Configuration:
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ test1 test2
+cont: 7((( apos os testes))) 
+Configuration:
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ test1 test2
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:8
+cont: 8((( apos os testes))) 
+Configuration:
+Base:true, highWaterSensor:false, lowWaterSensor:false, methaneQuery:false, methaneAlarm:false, stopCommand:false, startCommand:false, Base:true, highWaterSensor:false, lowWaterSensor:false, methaneQuery:false, methaneAlarm:false, stopCommand:false, startCommand:false, Base:true, highWaterSensor:false, lowWaterSensor:false, methaneQuery:false, methaneAlarm:false, stopCommand:false, startCommand:false, Base:true, highWaterSensor:false, lowWaterSensor:false, methaneQuery:false, methaneAlarm:false, stopCommand:false, startCommand:false, Base:true, highWaterSensor:false, lowWaterSensor:false, methaneQuery:false, methaneAlarm:false, stopCommand:false, startCommand:false, 
+Base:true, highWaterSensor:true, lowWaterSensor:true, methaneQuery:true, methaneAlarm:true, stopCommand:true, startCommand:true, Base:true, highWaterSensor:true, lowWaterSensor:true, methaneQuery:true, methaneAlarm:true, stopCommand:true, startCommand:true, Base:true, highWaterSensor:true, lowWaterSensor:true, methaneQuery:true, methaneAlarm:true, stopCommand:true, startCommand:true, Base:true, highWaterSensor:true, lowWaterSensor:true, methaneQuery:true, methaneAlarm:true, stopCommand:true, startCommand:true, Base:true, highWaterSensor:true, lowWaterSensor:true, methaneQuery:true, methaneAlarm:true, stopCommand:true, startCommand:true, 
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ test1 test2
+cont: 1((( apos os testes))) 
+Configuration:
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ test1 test2
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+cont: 2((( apos os testes))) 
+Configuration:
+
+ test1 test2
+cont: 3((( apos os testes))) 
+Configuration:
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ test1 test2
+cont: 4((( apos os testes))) 
+Configuration:
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ test1 test2
+cont: 5((( apos os testes))) 
+Configuration:
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ test1 test2
+cont: 6((( apos os testes))) 
+Configuration:
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ test1 test2
+cont: 7((( apos os testes))) 
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+ test1 test2
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+ test1 test2
+base:true 	 highwatersensor:false	 lowwatersensor:false	 methanequery:false	 methanealarm:false	 stopcommand:false	 startcommand:false
+
+
+ ----------------------- 
+
+
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+Configuration:
+
+cont: 8((( apos os testes))) 
+Configuration:
+
+cont: 9((( apos os testes))) 
+Configuration:
+
+ test1 test2
+cont: 10((( apos os testes))) 
+base:true 	 highwatersensor:true	 lowwatersensor:true	 methanequery:true	 methanealarm:true	 stopcommand:true	 startcommand:true
+
+
+ ----------------------- 
+
+
+Contador de produtos:10
+Total time (ms): 2730 time average (s): 0.546 number of times performed:5

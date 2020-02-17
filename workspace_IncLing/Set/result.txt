@@ -1,0 +1,206 @@
+Tree:true, IntegerSet:true, HashSet:false, 
+Tree:false, IntegerSet:true, HashSet:true, 
+tree:trueintegerset:truehashset:false
+
+Configuration:
+tree:trueintegerset:truehashset:false
+
+
+ ----------------------- 
+
+
+Configuration:
+tree:falseintegerset:truehashset:true
+
+tree:falseintegerset:truehashset:true
+
+
+ ----------------------- 
+
+
+Configurations count:2
+Tree:true, IntegerSet:true, HashSet:false, Tree:true, IntegerSet:true, HashSet:false, 
+Tree:false, IntegerSet:true, HashSet:true, Tree:false, IntegerSet:true, HashSet:true, 
+Configuration:
+tree:trueintegerset:truehashset:false
+
+tree:trueintegerset:truehashset:false
+
+
+ ----------------------- 
+
+
+Configuration:
+tree:falseintegerset:truehashset:true
+
+tree:falseintegerset:truehashset:true
+
+
+ ----------------------- 
+
+
+Configuration:
+tree:trueintegerset:truehashset:false
+
+tree:trueintegerset:truehashset:false
+
+
+ ----------------------- 
+
+
+Configuration:
+tree:falseintegerset:truehashset:true
+
+tree:falseintegerset:truehashset:true
+
+
+ ----------------------- 
+
+
+Configurations count:4
+Tree:true, IntegerSet:true, HashSet:false, Tree:true, IntegerSet:true, HashSet:false, Tree:true, IntegerSet:true, HashSet:false, 
+Tree:false, IntegerSet:true, HashSet:true, Tree:false, IntegerSet:true, HashSet:true, Tree:false, IntegerSet:true, HashSet:true, 
+Configuration:
+tree:trueintegerset:truehashset:false
+
+tree:trueintegerset:truehashset:false
+
+
+ ----------------------- 
+
+
+Configuration:
+tree:falseintegerset:truehashset:true
+
+tree:falseintegerset:truehashset:true
+
+
+ ----------------------- 
+
+
+Configuration:
+tree:trueintegerset:truehashset:false
+
+tree:trueintegerset:truehashset:false
+
+
+ ----------------------- 
+
+
+Configuration:
+tree:falseintegerset:truehashset:true
+
+tree:falseintegerset:truehashset:true
+
+
+ ----------------------- 
+
+
+Configuration:
+tree:trueintegerset:truehashset:false
+
+tree:trueintegerset:truehashset:falseConfiguration:
+
+
+ ----------------------- 
+
+
+tree:falseintegerset:truehashset:true
+
+
+tree:falseintegerset:truehashset:true
+
+
+ ----------------------- 
+
+
+Configurations count:6
+Tree:true, IntegerSet:true, HashSet:false, Tree:true, IntegerSet:true, HashSet:false, Tree:true, IntegerSet:true, HashSet:false, Tree:true, IntegerSet:true, HashSet:false, 
+Tree:false, IntegerSet:true, HashSet:true, Tree:false, IntegerSet:true, HashSet:true, Tree:false, IntegerSet:true, HashSet:true, Tree:false, IntegerSet:true, HashSet:true, 
+Configuration:
+tree:trueintegerset:truehashset:false
+
+tree:trueintegerset:truehashset:false
+
+
+ ----------------------- 
+
+
+Configuration:
+tree:falseintegerset:truehashset:true
+
+tree:falseintegerset:truehashset:true
+
+
+ ----------------------- 
+
+
+Configuration:
+tree:trueintegerset:truehashset:false
+
+Configuration:
+tree:trueintegerset:truehashset:false
+
+
+ ----------------------- 
+
+
+tree:falseintegerset:truehashset:true
+
+tree:falseintegerset:truehashset:true
+
+
+ ----------------------- 
+
+
+Configuration:
+tree:trueintegerset:truehashset:false
+
+tree:trueintegerset:truehashset:false
+
+
+ ----------------------- 
+
+
+Configuration:
+tree:falseintegerset:truehashset:true
+
+tree:falseintegerset:truehashset:true
+
+
+ ----------------------- 
+
+
+Configuration:
+tree:trueintegerset:truehashset:false
+
+tree:trueintegerset:truehashset:false
+
+
+ ----------------------- 
+
+
+Configuration:
+tree:falseintegerset:truehashset:true
+
+tree:falseintegerset:truehashset:true
+
+
+ ----------------------- 
+
+
+Configurations count:8
+Tree:true, IntegerSet:true, HashSet:false, Tree:true, IntegerSet:true, HashSet:false, Tree:true, IntegerSet:true, HashSet:false, Tree:true, IntegerSet:true, HashSet:false, Tree:true, IntegerSet:true, HashSet:false, 
+Tree:false, IntegerSet:true, HashSet:true, Tree:false, IntegerSet:true, HashSet:true, Tree:false, IntegerSet:true, HashSet:true, Tree:false, IntegerSet:true, HashSet:true, Tree:false, IntegerSet:true, HashSet:true, 
+Configuration:
+tree:trueintegerset:truehashset:false
+
+tree:trueintegerset:truehashset:false
+
+
+ ----------------------- 
+
+
+Configuration:
+tree:falseintegerset:truehashset:true
+
