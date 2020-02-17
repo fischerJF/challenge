@@ -7,3 +7,5 @@
 2. [source code](https://github.com/fischerJF/challenge/tree/master/workspace_IncLing/Paycard)
  
 3. [Failures found](https://github.com/fischerJF/challenge/blob/master/failuresFound/Paycard.csv)
+
+4. [Analyzed Configurations](https://github.com/fischerJF/challenge/tree/master/workspace_IncLing/Tools/All_valid_conf/Paycard/products)

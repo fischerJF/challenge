@@ -8,3 +8,6 @@
 2. [source code](https://github.com/fischerJF/challenge/tree/master/workspace_IncLing/MinePump)
 
 3. [Failures found](https://github.com/fischerJF/challenge/blob/master/failuresFound/minePump.csv)
+
+4. [Analyzed Configurations](https://github.com/fischerJF/challenge/tree/master/workspace_IncLing/Tools/All_valid_conf/MinePump/products)
+

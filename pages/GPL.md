@@ -9,3 +9,4 @@
 
 3. [Failures found](https://github.com/fischerJF/challenge/blob/master/failuresFound/GPL.csv)
 
+4. [Analyzed Configurations](https://github.com/fischerJF/challenge/tree/master/workspace_IncLing/Tools/All_valid_conf/GPL/products)
