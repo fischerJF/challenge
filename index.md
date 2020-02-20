@@ -37,9 +37,3 @@
 
 
 
-We conduct an ad hoc literature review analyzing survey papers on testing configurable systems and well-known datasets of configurable systems
-
-[All configurable systems found in the analyzed repositories](https://github.com/fischerJF/challenge/blob/master/ad_hoc_review/ALL.csv)
-
-[The intersection between configurable systems in the repositories analyzed](https://github.com/fischerJF/challenge/blob/master/ad_hoc_review/Intersection%20.csv)
-
