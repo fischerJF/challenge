@@ -2,10 +2,12 @@
 
 ![image](https://raw.githubusercontent.com/fischerJF/challenge/master/featureModel/PayCard.JPG)
 
-1. [Metrics](https://github.com/fischerJF/challenge/blob/master/metrics/Paycard.csv)
- 
-2. [source code](https://github.com/fischerJF/challenge/tree/master/workspace_IncLing/Paycard)
- 
-3. [Failures found](https://github.com/fischerJF/challenge/blob/master/failuresFound/Paycard.csv)
+1. Feature Model: [Guidsl](https://github.com/fischerJF/challenge/blob/master/workspace_IncLing/Paycard/modified-model.m) - [XML](https://github.com/fischerJF/challenge/blob/master/workspace_IncLing/Paycard/model.xml)
 
-4. [Analyzed Configurations](https://github.com/fischerJF/challenge/tree/master/workspace_IncLing/Tools/All_valid_conf/Paycard/products)
+2. [Metrics](https://github.com/fischerJF/challenge/blob/master/metrics/Paycard.csv)
+ 
+3. [Source Code](https://github.com/fischerJF/challenge/tree/master/workspace_IncLing/Paycard)
+ 
+4. [Failures Found](https://github.com/fischerJF/challenge/blob/master/failuresFound/Paycard.csv)
+
+5. [Analyzed Configurations](https://github.com/fischerJF/challenge/tree/master/workspace_IncLing/Tools/All_valid_conf/Paycard/products)
