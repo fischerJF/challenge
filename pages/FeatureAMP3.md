@@ -1,6 +1,6 @@
 # FeatureAMP3
 
-![image](https://raw.githubusercontent.com/fischerJF/challenge/master/featureModel/FeatureAMP3.JPG)
+![image](https://raw.githubusercontent.com/fischerJF/challenge/master/featureModel/FeatureAMP3.jpg)
 
 1. Feature Model: [Guidsl](https://github.com/fischerJF/challenge/blob/master/workspace_IncLing/FeatureAMP3/modified-model.m) - [XML](https://github.com/fischerJF/challenge/blob/master/workspace_IncLing/FeatureAMP3/model.xml)
 
