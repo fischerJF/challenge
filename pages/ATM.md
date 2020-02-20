@@ -2,7 +2,7 @@
 
 ![image](https://raw.githubusercontent.com/fischerJF/challenge/master/featureModel/ATM.JPG)
 
-1. Feature Model: [Guidsl](https://github.com/fischerJF/challenge/blob/master/workspace_IncLing/ATM/modified-model.m)  [XML](https://github.com/fischerJF/challenge/blob/master/workspace_IncLing/ATM/model.xml)
+1. Feature Model: [Guidsl](https://github.com/fischerJF/challenge/blob/master/workspace_IncLing/ATM/modified-model.m) - [XML](https://github.com/fischerJF/challenge/blob/master/workspace_IncLing/ATM/model.xml)
 
 2. [Metrics](https://github.com/fischerJF/challenge/blob/master/metrics/ATM.csv)
 
