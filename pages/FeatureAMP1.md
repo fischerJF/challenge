@@ -2,10 +2,12 @@
 
 ![image](https://raw.githubusercontent.com/fischerJF/challenge/master/featureModel/FeatureAMP1.JPG)
 
-1. [Metrics](https://github.com/fischerJF/challenge/blob/master/metrics/FeatureAMP1.csv)
+1. Feature Model: [Guidsl](https://github.com/fischerJF/challenge/blob/master/workspace_IncLing/FeatureAMP1/modified-model.m) - [XML](https://github.com/fischerJF/challenge/blob/master/workspace_IncLing/FeatureAMP1/model.xml)
+
+2. [Metrics](https://github.com/fischerJF/challenge/blob/master/metrics/FeatureAMP1.csv)
  
-2. [source code](https://github.com/fischerJF/challenge/tree/master/workspace_IncLing/FeatureAMP1)
+3. [Source Code](https://github.com/fischerJF/challenge/tree/master/workspace_IncLing/FeatureAMP1)
 
-3. [Failures found](https://github.com/fischerJF/challenge/blob/master/failuresFound/FeatureAmp1.csv)
+4. [Failures found](https://github.com/fischerJF/challenge/blob/master/failuresFound/FeatureAmp1.csv)
 
-4. [Analyzed Configurations](https://github.com/fischerJF/challenge/tree/master/workspace_IncLing/Tools/All_valid_conf/FeatureAMP1/products)
+5. [Analyzed Configurations](https://github.com/fischerJF/challenge/tree/master/workspace_IncLing/Tools/All_valid_conf/FeatureAMP1/products)
