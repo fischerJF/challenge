@@ -11,3 +11,5 @@
 4. [Failures Found](https://github.com/fischerJF/challenge/blob/master/failuresFound/Paycard.csv)
 
 5. [Analyzed Configurations](https://github.com/fischerJF/challenge/tree/master/workspace_IncLing/Tools/All_valid_conf/Paycard/products)
+
+6. [Example solution with IncLing tool](https://github.com/fischerJF/challenge/tree/master/workspace_IncLing/Tools/IncLing/Paycard/products)

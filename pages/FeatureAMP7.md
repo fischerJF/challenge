@@ -11,3 +11,5 @@
 4. Failures Found (not found)
 
 5. [Analyzed Configurations](https://github.com/fischerJF/challenge/tree/master/workspace_IncLing/Tools/All_valid_conf/FeatureAMP7/products)
+
+6. [Example solution with IncLing tool](https://github.com/fischerJF/challenge/tree/master/workspace_IncLing/Tools/IncLing/FeatureAMP7/products)

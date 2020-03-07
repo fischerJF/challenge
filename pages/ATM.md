@@ -11,3 +11,5 @@
 4. [Failures Found](https://github.com/fischerJF/challenge/blob/master/failuresFound/Atm.csv)
 
 5. [Analyzed Configurations](https://github.com/fischerJF/challenge/tree/master/workspace_IncLing/Tools/All_valid_conf/ATM/products)
+
+6. [Example solution with IncLing tool](https://github.com/fischerJF/challenge/tree/master/workspace_IncLing/Tools/IncLing/ATM/products)

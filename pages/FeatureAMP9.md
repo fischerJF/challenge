@@ -11,3 +11,5 @@
 4. [Failures Found](https://github.com/fischerJF/challenge/blob/master/failuresFound/FeatureAmp9.csv)
 
 5. [Analyzed Configurations](https://github.com/fischerJF/challenge/tree/master/workspace_IncLing/Tools/All_valid_conf/FeatureAMP9/products)
+
+6. [Example solution with IncLing tool](https://github.com/fischerJF/challenge/tree/master/workspace_IncLing/Tools/IncLing/FeatureAMP9/products)
